@@ -19,5 +19,6 @@ public class DemoTest {
  driver.get("https://www.amazon.in/");
 		
 		//pushed nd pulling back
+ //pulled nd pushing back
 }
 }
