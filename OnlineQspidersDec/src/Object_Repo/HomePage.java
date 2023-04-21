@@ -27,3 +27,6 @@ public class HomePage {
 		enterlinktext.click();
 	}
 }
+
+
+//Practise-maven
