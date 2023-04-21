@@ -27,16 +27,3 @@ public class HomePage {
 		enterlinktext.click();
 	}
 }
-
-
-//Practise-maven
-
-//change the name
-
-//eclipse changes1
-
-//eclipse changes
-
-//gitbash via eclipse
-
-//again changes
