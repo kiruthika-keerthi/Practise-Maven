@@ -27,11 +27,3 @@ public class HomePage {
 		enterlinktext.click();
 	}
 }
-
-
-//Practise-maven
-
-//change the name
-
-
-//again changes
